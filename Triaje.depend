@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1762493542 source:d:\downloads\eda2 - proyecto\avance2\triaje\avl.cpp
+	"AVL.h"
+	<iostream>
+	<stack>
+
+1762493375 d:\downloads\eda2 - proyecto\avance2\triaje\avl.h
+	"NodoAVL.h"
+
+1762493476 d:\downloads\eda2 - proyecto\avance2\triaje\nodoavl.h
+	"Cita.h"
+
+1762493406 d:\downloads\eda2 - proyecto\avance2\triaje\cita.h
+	<string>
+
+1762493647 source:d:\downloads\eda2 - proyecto\avance2\triaje\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+
+1743445502 source:d:\downloads\eda2 - proyecto\avance2\triaje\main.cpp
+	<iostream>
+
+1762493707 source:d:\downloads\eda2 - proyecto\avance2\triaje\maxheap.cpp
+	"MaxHeap.h"
+	<iostream>
+
+1762493451 d:\downloads\eda2 - proyecto\avance2\triaje\maxheap.h
+	"Paciente.h"
+
+1762493497 d:\downloads\eda2 - proyecto\avance2\triaje\paciente.h
+	<string>
+
+1762493733 source:d:\downloads\eda2 - proyecto\avance2\triaje\nodoavl.cpp
+	"NodoAVL.h"
+
+1762493747 source:d:\downloads\eda2 - proyecto\avance2\triaje\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<string>
+
+1762493768 source:d:\downloads\eda2 - proyecto\avance2\triaje\hash.cpp
+	"Hash.h"
+
+1762495009 d:\downloads\eda2 - proyecto\avance2\triaje\hash.h
+	"Paciente.h"
+
+1762757690 source:d:\downloads\eda2\triaje\triaje\avl.cpp
+	"AVL.h"
+	<iostream>
+	<stack>
+
+1762755069 d:\downloads\eda2\triaje\triaje\avl.h
+	"NodoAVL.h"
+
+1762725961 d:\downloads\eda2\triaje\triaje\nodoavl.h
+	"Cita.h"
+
+1762728617 d:\downloads\eda2\triaje\triaje\cita.h
+	<string>
+
+1762728973 source:d:\downloads\eda2\triaje\triaje\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1762754622 source:d:\downloads\eda2\triaje\triaje\hash.cpp
+	"Hash.h"
+	<iostream>
+
+1762755556 d:\downloads\eda2\triaje\triaje\hash.h
+	"Paciente.h"
+
+1762755105 d:\downloads\eda2\triaje\triaje\paciente.h
+	<string>
+
+1762729368 source:d:\downloads\eda2\triaje\triaje\maxheap.cpp
+	"MaxHeap.h"
+	<iostream>
+
+1762724352 d:\downloads\eda2\triaje\triaje\maxheap.h
+	"Paciente.h"
+	"Hash.h"
+
+1762725983 source:d:\downloads\eda2\triaje\triaje\nodoavl.cpp
+	"NodoAVL.h"
+
+1762737008 source:d:\downloads\eda2\triaje\triaje\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<string>
+
+1762757858 source:d:\downloads\eda2\triaje\triaje\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<stdlib.h>
+	"Paciente.h"
+	"Hash.h"
+	"MaxHeap.h"
+	"AVL.h"
+	"NodoAVL.h"
+
+1762821305 source:c:\users\usuario\downloads\triaje\triaje\triaje\avl.cpp
+	"AVL.h"
+	<iostream>
+	<stack>
+
+1762821292 c:\users\usuario\downloads\triaje\triaje\triaje\avl.h
+	"NodoAVL.h"
+
+1762813940 c:\users\usuario\downloads\triaje\triaje\triaje\nodoavl.h
+	"Cita.h"
+
+1762813940 c:\users\usuario\downloads\triaje\triaje\triaje\cita.h
+	<string>
+
+1762819044 source:c:\users\usuario\downloads\triaje\triaje\triaje\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1762813940 source:c:\users\usuario\downloads\triaje\triaje\triaje\hash.cpp
+	"Hash.h"
+	<iostream>
+
+1762813940 c:\users\usuario\downloads\triaje\triaje\triaje\hash.h
+	"Paciente.h"
+
+1762813940 c:\users\usuario\downloads\triaje\triaje\triaje\paciente.h
+	<string>
+
+1762872769 source:c:\users\usuario\downloads\triaje\triaje\triaje\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<stdlib.h>
+	"Paciente.h"
+	"Hash.h"
+	"MaxHeap.h"
+	"AVL.h"
+	"NodoAVL.h"
+
+1762813940 c:\users\usuario\downloads\triaje\triaje\triaje\maxheap.h
+	"Paciente.h"
+	"Hash.h"
+
+1762872347 source:c:\users\usuario\downloads\triaje\triaje\triaje\maxheap.cpp
+	"MaxHeap.h"
+	<iostream>
+
+1762813940 source:c:\users\usuario\downloads\triaje\triaje\triaje\nodoavl.cpp
+	"NodoAVL.h"
+
+1762872347 source:c:\users\usuario\downloads\triaje\triaje\triaje\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<string>
+
+1762903320 source:d:\downloads\triaje\triaje\triaje\avl.cpp
+	"AVL.h"
+	<iostream>
+	<stack>
+
+1762900669 d:\downloads\triaje\triaje\triaje\avl.h
+	"NodoAVL.h"
+
+1762896370 d:\downloads\triaje\triaje\triaje\nodoavl.h
+	"Cita.h"
+
+1762898660 d:\downloads\triaje\triaje\triaje\cita.h
+	<string>
+
+1762898655 source:d:\downloads\triaje\triaje\triaje\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
+1762896370 source:d:\downloads\triaje\triaje\triaje\hash.cpp
+	"Hash.h"
+	<iostream>
+
+1762896370 d:\downloads\triaje\triaje\triaje\hash.h
+	"Paciente.h"
+
+1762896370 d:\downloads\triaje\triaje\triaje\paciente.h
+	<string>
+
+1762902700 source:d:\downloads\triaje\triaje\triaje\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"Paciente.h"
+	"Hash.h"
+	"MaxHeap.h"
+	"AVL.h"
+	"NodoAVL.h"
+
+1762896370 d:\downloads\triaje\triaje\triaje\maxheap.h
+	"Paciente.h"
+	"Hash.h"
+
+1762896370 source:d:\downloads\triaje\triaje\triaje\maxheap.cpp
+	"MaxHeap.h"
+	<iostream>
+
+1762896370 source:d:\downloads\triaje\triaje\triaje\nodoavl.cpp
+	"NodoAVL.h"
+
+1762896421 source:d:\downloads\triaje\triaje\triaje\paciente.cpp
+	"Paciente.h"
+	<iostream>
+	<string>
+
